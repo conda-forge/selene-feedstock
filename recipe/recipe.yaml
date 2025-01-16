@@ -1,5 +1,5 @@
 context:
-  version: 0.27.1
+  version: "0.28.0"
 
 package:
   name: selene
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Kampfkarren/selene/archive/${{ version }}.tar.gz
-  sha256: f12579907c019bebcc3830e320614409217096e63d80b4704989bbd65394b530
+  sha256: c51acf52e7c3136cd0b67b9a39a4a447c8f0257371b2b2acc7e77587260a377b
 
 build:
   number: 0
